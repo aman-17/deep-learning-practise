@@ -1,2 +1,10 @@
-# deep-learning-practise
-Practicing deep learning also involves being familiar with the libraries and frameworks like Tensorflow, Pytorch, Theano, etc. that are commonly used to train and deploy deep learning models, as well as staying up to date with the latest research and advancements in the field.
+Deep learning is a subset of machine learning that involves training artificial neural networks with many layers (hence "deep") to perform tasks such as image recognition, natural language processing, and speech recognition. Practicing deep learning typically involves a combination of the following steps:
+
+1. Defining a problem or task to be solved: This could be a specific problem such as image classification or a more general task such as natural language understanding.
+2. Collecting and preparing a dataset: This typically involves obtaining a large dataset of examples that can be used to train a deep learning model. The data may need to be pre-processed and cleaned before it can be used.
+3. Choosing a deep learning model architecture: There are many different types of neural network architectures that can be used for deep learning, such as convolutional neural networks (CNNs), recurrent neural networks (RNNs), and transformer networks. The choice of architecture will depend on the task and the data.
+4. Training the model: This typically involves using a large dataset to train the model, adjusting the model's parameters to optimize its performance. This process can be time-consuming and requires powerful hardware such as GPUs.
+5. Evaluating the model: After the model is trained, it is usually evaluated on a separate dataset to measure its performance and identify any areas for improvement.
+6. Improving the model: Based on the evaluation results, adjustments can be made to the model's architecture, training data, or training process to improve performance. This process can be iterated multiple times.
+7. Deploying the model: Once the model is trained and performs well, it can be deployed in a production environment to be used for the intended task.
+8. Practicing deep learning also involves being familiar with the libraries and frameworks like Tensorflow, Pytorch, etc. that are commonly used to train and deploy deep learning models, as well as staying up to date with the latest research and advancements in the field.
